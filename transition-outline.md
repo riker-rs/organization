@@ -9,7 +9,7 @@ Lee Smith, the founder and maintainer of Riker has called for this transition in
 
 The purpose of this document is to gain alignment and consensus  on forming the first steps of transition. Several Riker users (developers that use or have contributed to Riker) have provided input on how they would like to move forward. However, anyone interest in contributing through PRs or comments to this document may do so.
 
-The style of this document is semi-official, optimizing for ideas and shared thoughts, rather than concrete guides and rules. Concrete materials must however emerge from this process.
+The style of this document is semi-official, optimizing for ideas and shared thoughts, rather than concrete guides and rules.
 
 Ultimately, this document aims to set direction and initial targets/goals of the reorganization, much like an RFC.
 
@@ -64,6 +64,7 @@ The first tasks of the Core Team will be:
 - Pull Request requirements and process
 - Code style requirements
 - RFC process, including templates and guide
+- Create Code of Conduct, based on the principles and policy of organization
 
 Long term the Core Team will work to establish workgroups that will ideally be empowered to work autonomously.
 
